@@ -10,3 +10,5 @@ Practice building out a professional-style wireframe document from a provided sp
 http://meyerweb.com/eric/tools/css/reset/ 
 
 ### Reflections and Comments
+
+Great exercise to keep for reference or trying to build in different ways
